@@ -1,7 +1,7 @@
 # TrackCodeWars
 This is the GitHub repository where I save copies of the katas I've completed on [codewars.com](www.codewars.com).
 
-![alt text](https://www.codewars.com/users/camilleregnault/badges/large "My CodeWar Profile")
+[![alt text](https://www.codewars.com/users/camilleregnault/badges/large "My CodeWar Profile")](https://www.codewars.com/users/camilleregnault)
 
 
 ## What is CodeWars?
