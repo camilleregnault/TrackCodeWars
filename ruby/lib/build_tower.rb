@@ -7,15 +7,14 @@ def towerBuilder(n_floors)
 #   '*****'
 # ]
 
-tower = []
-i = 1
+  tower = []
+  i = 1
 
-while i <= n_floors do
-  star = '*' * ((2 * i) - 1)
-  space = ' ' * (n_floors - i)
-  tower << "#{space}#{star}#{space}"
-  i += 1
-end
-p tower
-
+  while i <= n_floors do
+    star = '*' * ((2 * i) - 1)
+    space = ' ' * (n_floors - i)
+    tower << "#{space}#{star}#{space}"
+    i += 1
+  end
+  return tower
 end
