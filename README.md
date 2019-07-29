@@ -13,5 +13,9 @@ I mainly train myself for Ruby and Javascript challenges.
 ## List of challenges
 
 ### JavaScript:
+- Capitalize
+- Temperatures
 
 ### Ruby:
+- Build Tower
+- Find the odd int
