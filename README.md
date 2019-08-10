@@ -13,13 +13,21 @@ I mainly train myself for Ruby and Javascript challenges.
 
 ## List of challenges
 
+### Ruby:
+
+- Build Tower
+- Find the odd int
+- Vowel count
+- Even or Odd
+- Sum of positive
+
 ### JavaScript:
 
 - Capitalize
 - Temperatures
 - Two to One
-
-### Ruby:
-
-- Build Tower
-- Find the odd int
+- Descending order
+- Counting sheep
+- Reduce but grow
+- String repeat
+- Total amount of points
