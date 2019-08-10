@@ -18,8 +18,16 @@ I mainly train myself for Ruby and Javascript challenges.
 - Capitalize
 - Temperatures
 - Two to One
+- Descending order
+- Counting sheep
+- Reduce but grow
+- String repeat
+- Total amount of points
 
 ### Ruby:
 
 - Build Tower
 - Find the odd int
+- Vowel count
+- Even or Odd
+- Sum of positive
