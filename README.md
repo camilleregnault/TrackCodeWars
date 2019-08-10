@@ -15,8 +15,12 @@ I mainly train myself for Ruby and Javascript challenges.
 
 ### Ruby:
 
+- Duplicate encoder
 - Build Tower
+- Array.diff
 - Find the odd int
+- List filtering
+- Opposite number
 - Vowel count
 - Even or Odd
 - Sum of positive
