@@ -17,7 +17,9 @@ I mainly train myself for Ruby and Javascript challenges.
 
 - Duplicate encoder
 - Build Tower
+- Take a ten minute walk
 - Array.diff
+- Square root game
 - Find the odd int
 - List filtering
 - Opposite number
