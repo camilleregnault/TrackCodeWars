@@ -15,6 +15,7 @@ I mainly train myself for Ruby and Javascript challenges.
 
 ### Ruby:
 
+- number to LCD ([codingdojo.org/kata/NumberToLCD/](http://codingdojo.org/kata/NumberToLCD/))
 - Duplicate encoder
 - Build Tower
 - Take a ten minute walk
