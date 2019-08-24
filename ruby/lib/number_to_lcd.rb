@@ -1,4 +1,6 @@
-def converter(digits)
+# codingdojo.org/kata/NumberToLCD/
+
+def converter(digits)codin|gdojo.org/kata/NumberToLCD/
   return nil if digits.nil?
   return nil if !digits.is_a?(String)
   return '' if digits.empty?
