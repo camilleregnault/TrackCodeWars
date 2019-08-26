@@ -31,7 +31,7 @@ I mainly train myself for Ruby and Javascript challenges.
 ### JavaScript:
 
 - Capitalize
-- Temperatures
+- Temperatures (https://www.codingame.com/)
 - Two to One
 - Descending order
 - Counting sheep
