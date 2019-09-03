@@ -16,6 +16,7 @@ I mainly train myself for Ruby and Javascript challenges.
 ### Ruby:
 
 - Number to LCD ([codingdojo.org/kata/NumberToLCD/](http://codingdojo.org/kata/NumberToLCD/))
+- Code Cracker (http://codingdojo.org/kata/CodeCracker/)
 - Duplicate encoder
 - Build Tower
 - Take a ten minute walk
