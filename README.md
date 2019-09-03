@@ -15,8 +15,8 @@ I mainly train myself for Ruby and Javascript challenges.
 
 ### Ruby:
 
-- Number to LCD ([codingdojo.org/kata/NumberToLCD/](http://codingdojo.org/kata/NumberToLCD/))
-- Code Cracker (http://codingdojo.org/kata/CodeCracker/)
+- Number to LCD ([Coding Dojo](http://codingdojo.org/kata/NumberToLCD/))
+- Code Cracker ([Coding Dojo](http://codingdojo.org/kata/CodeCracker/))
 - Duplicate encoder
 - Build Tower
 - Take a ten minute walk
@@ -32,7 +32,7 @@ I mainly train myself for Ruby and Javascript challenges.
 ### JavaScript:
 
 - Capitalize
-- Temperatures (https://www.codingame.com/)
+- Temperatures ([Codingame](https://www.codingame.com/))
 - Two to One
 - Descending order
 - Counting sheep
